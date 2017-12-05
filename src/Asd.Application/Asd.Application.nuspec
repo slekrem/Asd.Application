@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Asd.Application</id>
+    <version>1.0.0</version>
+    <title>Asd.Application</title>
+    <authors>stefan</authors>
+    <owners>stefan</owners>
+    <licenseUrl>https://github.com/stefanmerkel/Asd.Application</licenseUrl>
+    <projectUrl>https://github.com/stefanmerkel/Asd.Application</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>-</description>
+    <releaseNotes>-</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <dependencies>
+      <dependency id="Asd.Domain.Core" version="1.0.2" />
+      <dependency id="AutoMapper" version="6.2.1" />
+      <dependency id="FluentValidation" version="7.2.1" />
+    </dependencies>
+  </metadata>
+</package>
